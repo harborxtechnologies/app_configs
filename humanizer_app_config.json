@@ -1,5 +1,9 @@
 {
   "base_URL": "https://humanize-detector-3in1.onrender.com/api/3in1/universal",
   "backupApi": "https://humanize-detector-3in1.onrender.com/api/3in1/universal",
-  "ttl": 86400
+  "ttl": 86400,
+  "ai_detector_android_url": "",
+  "ai_detector_ios_url": "",
+  "plagiarism_checker_android_url": "",
+  "plagiarism_checker_ios_url": "",
 }
