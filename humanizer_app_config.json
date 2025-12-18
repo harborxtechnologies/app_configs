@@ -1,0 +1,5 @@
+{
+  "base_URL": "https://humanize-detector-3in1.onrender.com/api/3in1/universal",
+  "backupApi": "https://humanize-detector-3in1.onrender.com/api/3in1/universal",
+  "ttl": 86400
+}
