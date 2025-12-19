@@ -1,6 +1,9 @@
 {
   "base_URL": "https://humanize-detector-3in1.onrender.com/api/3in1/universal",
   "backupApi": "https://humanize-detector-3in1.onrender.com/api/3in1/universal",
+  "file_extract_URL": "https://humanize-detector-3in1.onrender.com/api/extract-text",
+  "generate_pdf_URL": "https://humanize-detector-3in1.onrender.com/api/generate-pdf",
+  "generate_docx_URL": "https://humanize-detector-3in1.onrender.com/api/generate-docx",
   "ttl": 86400,
   "ai_detector_android_url": "",
   "ai_detector_ios_url": "",
