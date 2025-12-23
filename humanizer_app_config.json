@@ -1,6 +1,7 @@
 {
   "base_URL": "https://humanize-detector-3in1.onrender.com/api/3in1/universal",
   "backupApi": "https://humanize-detector-3in1.onrender.com/api/3in1/universal",
+  "validate_receipt_URL": "https://humanize-detector-3in1.onrender.com/api/3in1/validate-receipt",
   "file_extract_URL": "https://humanize-detector-3in1.onrender.com/api/extract-text",
   "generate_pdf_URL": "https://humanize-detector-3in1.onrender.com/api/generate-pdf",
   "generate_docx_URL": "https://humanize-detector-3in1.onrender.com/api/generate-docx",
