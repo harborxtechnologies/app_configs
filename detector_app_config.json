@@ -4,5 +4,6 @@
   "discordServerLink": "https://discord.gg/yourserver",
   "privacyPolicyLink": "https://yourdomain.com/privacy-policy",
   "termsOfUseLink": "https://yourdomain.com/terms-of-use",
-  "externalAdAppLink": "https://apps.apple.com/app/idYYYYYYYYYY"
+  "externalAdAppLink": "https://apps.apple.com/app/idYYYYYYYYYY",
+  "cacheTimeMs": 3600000
 }
