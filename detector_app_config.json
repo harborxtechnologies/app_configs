@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "appName": "AppName",
   "iosAppStoreLink": "https://apps.apple.com/app/idXXXXXXXXXX",
   "discordServerLink": "https://discord.gg/aeYwrCJZne",
@@ -16,5 +17,5 @@
       ]
     }
   },
-  "cacheTimeMs": 129600000
+  "cacheTimeMs": 86400000
 }
