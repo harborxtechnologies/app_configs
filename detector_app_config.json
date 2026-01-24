@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "appName": "AppNameHere",
+  "appName": "AI Detector",
   "iosAppStoreLink": "https://apps.apple.com/app/6757932665",
   "discordServerLink": "https://discord.gg/aeYwrCJZne",
   "privacyPolicyLink": "https://appsflowstudio.blogspot.com/2025/12/privacy-policy.html",
   "termsOfUseLink": "https://appsflowstudio.blogspot.com/2025/12/terms-conditions.html",
   "contactUsEmail": "feedback.awais@gmail.com",
   "externalApp": {
-    "link": "https://apps.apple.com/app/idEXTERNALAPPID",
+    "link": "https://apps.apple.com/app/6756027390",
     "features": [
       "AI Humanizer",
       "Rewrite Text",
