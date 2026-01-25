@@ -18,9 +18,9 @@
     "ios": {
       "enabled": true,
       "plans": [
-        "com.detector.ai.checker.weekly.plan",
-        "com.detector.ai.checker.monthly.plan",
         "com.detector.ai.checker.yearly.plan"
+        "com.detector.ai.checker.monthly.plan",
+        "com.detector.ai.checker.weekly.plan",
       ]
     }
   },
