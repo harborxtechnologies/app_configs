@@ -6,14 +6,7 @@
   "privacyPolicyLink": "https://appsflowstudio.blogspot.com/2025/12/privacy-policy.html",
   "termsOfUseLink": "https://appsflowstudio.blogspot.com/2025/12/terms-conditions.html",
   "contactUsEmail": "feedback.awais@gmail.com",
-  "externalApp": {
-    "link": "https://apps.apple.com/app/6756027390",
-    "features": [
-      "AI Humanizer",
-      "Rewrite Text",
-      "Remove Plagiarism"
-    ]
-  },
+  "externalApp": null,
   "iap": {
     "ios": {
       "enabled": true,
