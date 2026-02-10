@@ -9,8 +9,8 @@
   "generate_docx_URL": "https://humanize-detector-3in1.onrender.com/api/generate-docx",
   "ttl": 86400,
   "ai_detector_android_url": "",
-  "ai_detector_ios_url": "",
+  "ai_detector_ios_url": "https://apps.apple.com/app/id6757932665",
   "plagiarism_checker_android_url": "",
-  "plagiarism_checker_ios_url": "",
+  "plagiarism_checker_ios_url": "https://apps.apple.com/app/id6757932665",
   "discord_server_key": "https://discord.gg/aeYwrCJZne"
 }
